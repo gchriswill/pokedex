@@ -1,0 +1,3 @@
+# This is the `CODEOWNERS` file and thus by it's name meaning, it defines the owners for the all or individual scopes in this repository.
+# These owners will be the default owners for everything in the repo.
+*       @gchriswill
